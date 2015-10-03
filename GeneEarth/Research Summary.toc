@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Summary}{2}
+\contentsline {section}{\numberline {2}Description}{3}
+\contentsline {section}{\numberline {3}Results}{5}
+\contentsline {section}{\numberline {4}Conclusion}{8}
+\contentsline {section}{\numberline {A}Visualization}{9}
+\contentsline {subsection}{\numberline {A.1}Projection of genes to surface of 3d unit sphere}{9}
+\contentsline {subsection}{\numberline {A.2}Projection from 3d to 2d}{9}
+\contentsline {section}{\numberline {B}Programming Methods}{10}
+\contentsline {subsection}{\numberline {B.1}Locating Gene}{10}
+\contentsline {subsection}{\numberline {B.2}Zooming on a gene}{10}
+\contentsline {subsection}{\numberline {B.3}Rotation}{12}
